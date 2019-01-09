@@ -1,0 +1,8 @@
+Dallas|Austin|43|47
+Austin|Houston|47|39
+Dallas|Houston|101|51
+Austin|Chicago|144|192
+Chicago|Austin|155|200
+Austin|Dallas|100|50
+Houston|Dallas|100|50
+Chicago|Boston|178|350

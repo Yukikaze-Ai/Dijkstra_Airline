@@ -1,0 +1,6 @@
+Dallas|Houston|T
+Dallas|Houston|C
+Chicago|Dallas|T
+Houston|Chicago|T
+Boston|Houston|T
+NewYork JFK|Dallas|C
